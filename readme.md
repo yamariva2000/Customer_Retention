@@ -5,4 +5,8 @@ I can't believe it, but my consulting project with a Bay Area startup only laste
   
   At least I learned how to use Bokeh, which is a Python library that renders interactive Javascript Charts.  See the one below.  My script generates random customer data and creates a pretty cool interactive heat map for retention values.
   
-![fig1](bokeh_plot.png)
+[See my interactive chart here](https://hills.ccsf.edu/~kyip12/interactive.html)  
+ Static png here.
+  
+ ![fig1](bokeh_plot.png)
+ 
